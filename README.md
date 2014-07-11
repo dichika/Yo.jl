@@ -1,5 +1,5 @@
 # Yo
-Yo from julia.  
+This package is for sending Yo from julia.  
 Before Yo, you need to get your API token.  
 Please, visit http://yoapi.justyo.co/ .
 ## Example
