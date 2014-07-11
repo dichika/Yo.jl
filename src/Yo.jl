@@ -3,6 +3,8 @@ module Yo
 using HTTPClient.HTTPC
 using JSON
 
+export yo
+
 function yo(apitoken)
   res=HTTPC.post("http://api.justyo.co/yoall/",[("api_token",apitoken)])
 end
